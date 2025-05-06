@@ -45,7 +45,7 @@ The learning objectives of this project are to:
 
 
 
-## UI/UX Design Planning
+## 📐 UI/UX Design Planning
 
 ### Design Goals
 
